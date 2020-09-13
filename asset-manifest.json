@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JavaScriptCaculator/static/css/main.c2b67e49.chunk.css",
+    "main.js": "/JavaScriptCaculator/static/js/main.2df1e48a.chunk.js",
+    "main.js.map": "/JavaScriptCaculator/static/js/main.2df1e48a.chunk.js.map",
+    "runtime-main.js": "/JavaScriptCaculator/static/js/runtime-main.403501bf.js",
+    "runtime-main.js.map": "/JavaScriptCaculator/static/js/runtime-main.403501bf.js.map",
+    "static/js/2.2ad255e7.chunk.js": "/JavaScriptCaculator/static/js/2.2ad255e7.chunk.js",
+    "static/js/2.2ad255e7.chunk.js.map": "/JavaScriptCaculator/static/js/2.2ad255e7.chunk.js.map",
+    "index.html": "/JavaScriptCaculator/index.html",
+    "precache-manifest.afa25aa5a5521978ae2311449681199a.js": "/JavaScriptCaculator/precache-manifest.afa25aa5a5521978ae2311449681199a.js",
+    "service-worker.js": "/JavaScriptCaculator/service-worker.js",
+    "static/css/main.c2b67e49.chunk.css.map": "/JavaScriptCaculator/static/css/main.c2b67e49.chunk.css.map",
+    "static/js/2.2ad255e7.chunk.js.LICENSE.txt": "/JavaScriptCaculator/static/js/2.2ad255e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.403501bf.js",
+    "static/js/2.2ad255e7.chunk.js",
+    "static/css/main.c2b67e49.chunk.css",
+    "static/js/main.2df1e48a.chunk.js"
+  ]
+}
